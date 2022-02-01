@@ -10,7 +10,7 @@ This Application is able to:
 1. See all the options that the restaurant offers.
 2. Navigating between the different types of screens.
 3. Show the information and ingredients of the different types of dishes.
-4. More to be release...
+4. More to be release... 
 
 ## Installation and how to run
 - Fork this Repository
