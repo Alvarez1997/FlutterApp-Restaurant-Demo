@@ -1,16 +1,29 @@
-# restauran_app
+# MobileApp-Restaurant-Demo.
 
-A new Flutter project.
+## Description
+This is a Flutter Mobile app (Version 0.1).
 
-## Getting Started
+This application displays a restaurant menu where the user can see and choose what they want to order.
 
-This project is a starting point for a Flutter application.
+This Application is able to:
 
-A few resources to get you started if this is your first Flutter project:
+1. See all the options that the restaurant offers.
+2. Navigating between the different types of screens.
+3. Show the information and ingredients of the different types of dishes.
+4. More to be release...
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Installation and how to run
+- Fork this Repository
+- Clone your forked repository
+- Add your scripts
+- Commit & Push
+- Create a pull request
+- Star this repository
+- Wait for Pull Request to merge
+### Note: in addition you can open the pubspec.yaml file and save (ctrl + s) for the code editor to download and update the packages.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages used
+- cupertino_icons: ^1.0.2
+- card_swiper: ^1.0.4
+
+**Enjoy Coding ❤ by Diego Alvarez**
